@@ -11,8 +11,7 @@ A web application that allows users to browse, book, and manage turf or sports f
 - [Tech Stack](#-tech-stack)
 - [Installation](#-installation)
 - [Usage](#-usage)
-- [API Endpoints](#-api-endpoints)
-- [Contributing](#-contributing)
+
 
 ---
 
@@ -60,7 +59,7 @@ If you're using a different backend or language, update the instructions accordi
 
 ---
 
-##📌 Usage
+📌 Usage
 Register or log in as a user/admin
 
 Browse turfs using search or filters
@@ -69,9 +68,8 @@ Choose a time slot and confirm your booking
 
 View and manage your bookings from the dashboard
 
----
 
-##📡 API Endpoints
+📡 API Endpoints
 
 GET    /api/turfs            # List all available turfs
 
@@ -85,8 +83,7 @@ POST   /api/auth/register    # Register a new user
 
 POST   /api/auth/login       # Login user
 
----
+🤝 Contributing
 
-##🤝 Contributing
 Contributions are welcome!
 If you'd like to improve this project, please fork the repo and create a pull request. For major changes, open an issue first to discuss what you'd like to change.
