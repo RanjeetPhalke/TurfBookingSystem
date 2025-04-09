@@ -58,7 +58,7 @@ npm install
 npm start
 If you're using a different backend or language, update the instructions accordingly.
 
-📌 Usage
+##📌 Usage
 Register or log in as a user/admin
 
 Browse turfs using search or filters
@@ -67,7 +67,7 @@ Choose a time slot and confirm your booking
 
 View and manage your bookings from the dashboard
 
-📡 API Endpoints
+##📡 API Endpoints
 
 GET    /api/turfs            # List all available turfs
 
@@ -81,6 +81,6 @@ POST   /api/auth/register    # Register a new user
 
 POST   /api/auth/login       # Login user
 
-🤝 Contributing
+##🤝 Contributing
 Contributions are welcome!
 If you'd like to improve this project, please fork the repo and create a pull request. For major changes, open an issue first to discuss what you'd like to change.
