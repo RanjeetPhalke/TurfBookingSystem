@@ -46,7 +46,7 @@ Turf Booking System is an online platform where users can find and book sports t
 ## 🚀 Installation
 
 # Clone the repository
-git clone https://github.com/yourusername/turf-booking-system.git
+git clone https://github.com/RanjeetPhalke/TurfBookingSystem.git
 
 # Navigate into the project directory
 cd turf-booking-system
@@ -70,10 +70,15 @@ View and manage your bookings from the dashboard
 📡 API Endpoints
 
 GET    /api/turfs            # List all available turfs
+
 GET    /api/turf/:id         # Get details of a specific turf
+
 POST   /api/bookings         # Make a booking
+
 GET    /api/bookings         # Get user bookings
+
 POST   /api/auth/register    # Register a new user
+
 POST   /api/auth/login       # Login user
 
 🤝 Contributing
