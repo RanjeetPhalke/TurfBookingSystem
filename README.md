@@ -36,17 +36,15 @@ Turf Booking System is an online platform where users can find and book sports t
 
 ## 🛠️ Tech Stack
 
-**Frontend**: HTML, CSS, JavaScript *(or React, Angular – specify if using one)*  
-**Backend**: Node.js / Express *(or Django, Flask, etc.)*  
-**Database**: MongoDB / MySQL / PostgreSQL  
+**Frontend**: HTML, CSS, Bootstrap, React 
+**Backend**: STS (SpringBoot)
+**Database**: MySQL / MySQl Workbench 
 **Authentication**: JWT / Firebase Auth / OAuth  
-**Others**: Stripe (payments), Cloudinary (image upload), Nodemailer (email)
 
 ---
 
 ## 🚀 Installation
 
-```bash
 # Clone the repository
 git clone https://github.com/yourusername/turf-booking-system.git
 
